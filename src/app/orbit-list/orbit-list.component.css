@@ -4,16 +4,20 @@
 }
 
 .warning {
-    background-color: #cabf1d;
+    background-color: #a10d0d;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
 }
 
 table {
   color: rgba(53, 221, 11, 0.938);
-  border-radius: 5px;
+  border-radius: 10px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #a1672d;
+  background: #0c0803;
 }
 
 .header-row {
